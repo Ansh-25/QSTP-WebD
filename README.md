@@ -1,6 +1,6 @@
-####Mobile responsive Portfolio Website using Tailwind CSS.
+#### Mobile responsive Portfolio Website using Tailwind CSS.
 
-######For setting up tailwind css
+###### For setting up tailwind css
 
 run command 
 ```
